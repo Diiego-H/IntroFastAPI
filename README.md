@@ -2,7 +2,14 @@
 University project: Full-Stack &amp; FastAPI introduction.
 
 ## Backend technologies
-Python, FastAPI, SQLAlchemy & Pydantic.
+- OAuth2 authentication
+- JWT access token
+- SQLAlchemy database (migrating with Alembic)
+- Pydantic models
+- FastAPI & Python
 
 ## Frontend technologies
-HTML, CSS, JavaScript & Vue.js.
+- HTML
+- CSS
+- JavaScript
+- Vue.js
